@@ -109,6 +109,7 @@
             display: flex;
             justify-content: center;
             gap: 30px;
+            flex-wrap: wrap;
         }
 
         .portfolio-item {
@@ -117,6 +118,7 @@
             width: 300px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: left;
         }
 
         .portfolio-item h3 {
